@@ -1,5 +1,11 @@
 {
-  "title": "Telekom Schulung",
-  "description": "Git, Maven, Java usw...",
-  "courses": []
+  "title": "Schulung",
+  "description": "Git, Java, Kubernetes",
+  "courses": [
+    {
+      "course_id": "firstScenario",
+      "title": "Schulung",
+      "description": "Telekom"
+    }
+  ]
 }
