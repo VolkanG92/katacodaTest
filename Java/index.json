@@ -11,10 +11,25 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "courseBase.sh"
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "docker-compose.yml",
+          "target": "~/"
+        }
+      ],
+      "host01": [
+        {
+          "file": "config.yml",
+          "target": "~/"
+        }
+      ]
     }
   },
   "environment": {
