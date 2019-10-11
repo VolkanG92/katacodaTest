@@ -6,17 +6,14 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Die beste Schulung ever!",
         "text": "step1.md",
-        "courseData": "courseBase.sh"
+        "courseData": "courseBase.sh",
+        "code": "changecd.sh"
       }
     ],
     "intro": {
       "text": "intro.md"
-      
-    },
-    "finish": {
-      "text": "finish.md"
     }
   },
     "files": [
