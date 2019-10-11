@@ -1,1 +1,1 @@
-cd test
+cd test/
