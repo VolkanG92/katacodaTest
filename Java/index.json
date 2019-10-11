@@ -10,14 +10,8 @@
         "text": "step1.md",
         "courseData": "courseBase.sh"
       }
-    ],
-    "intro": {
-      "text": "intro.md"
-    }
+    ]
   },
-  "files": [
-    "test.js"
-  ],
   "environment": {
     "uilayout": "editor-terminal"
   },
