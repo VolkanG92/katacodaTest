@@ -1,2 +1,3 @@
 mkdir test
-cd test
+cd test/
+touch test.js
