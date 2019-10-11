@@ -1,4 +1,4 @@
 ---- Hier Text einpflegen ----
 Wow die Schulung ist der Hammer!!
 
-www.google.de{$test} 
+https://[[HOST_SUBDOMAIN]]-[[KATACODA_HOST]].environments.katacoda.com/
