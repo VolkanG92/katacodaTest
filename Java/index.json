@@ -12,7 +12,6 @@
     ],
     "intro": {
       "text": "intro.md",
-      //"courseData": "courseBase.sh",
       "code": "changecd.sh"
     }
   },
