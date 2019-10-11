@@ -8,12 +8,12 @@
       {
         "title": "Die beste Schulung ever!",
         "text": "step1.md",
-        "courseData": "courseBase.sh",
         "code": "changecd.sh"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "courseBase.sh"
     }
   },
   "environment": {
