@@ -7,12 +7,12 @@
     "steps": [
       {
         "title": "Die beste Schulung ever!",
-        "text": "step1.md"
+        "text": "step1.md",
+        "courseData": "courseBase.sh",
       }
     ],
     "intro": {
-      "text": "intro.md",
-      "code": "changecd.sh"
+      "text": "intro.md"
     }
   },
   "files": [
