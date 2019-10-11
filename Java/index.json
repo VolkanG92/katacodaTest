@@ -16,26 +16,15 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-      "client": [
-        {
-          "file": "docker-compose.yml",
-          "target": "~/"
-        }
-      ],
-      "host01": [
-        {
-          "file": "config.yml",
-          "target": "~/"
-        }
-      ]
     }
   },
+    "files": [
+    "app.js"
+  ],
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal-split"
   },
   "backend": {
-    "imageid": "java"
+    "imageid": "ubuntu"
   }
 }
