@@ -16,6 +16,9 @@
       "courseData": "courseBase.sh"
     }
   },
+  "files": [
+    "test.js"
+  ],
   "environment": {
     "uilayout": "editor-terminal"
   },
